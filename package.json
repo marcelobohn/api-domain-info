@@ -14,5 +14,8 @@
     "lib-domain-info": "git+https://github.com/marcelobohn/lib-domain-info.git",
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0"
+  },
+  "engines": {
+    "node": "8.0.0"
   }
 }
